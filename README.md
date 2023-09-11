@@ -1,0 +1,2 @@
+# amaw
+repository pertama
